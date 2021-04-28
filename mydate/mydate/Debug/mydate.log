@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\firat\Desktop\SoftwareTools\Visual Studio\mydate\Date.cpp(131,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Mydate.cpp
+  Kod Üretiliyor...
+  mydate.vcxproj -> C:\Users\firat\Desktop\SoftwareTools\Visual Studio\mydate\Debug\mydate.exe
